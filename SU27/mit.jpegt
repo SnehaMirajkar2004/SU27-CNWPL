@@ -1,0 +1,1426 @@
+
+<!doctype html>
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><html lang="en" class="no-js"><![endif]-->
+<html lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<!-- Basic -->
+	
+	
+	<!-- Google Tag Manager  Added by Jeevan Tonde on 01-Jan-2020 -->
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MPQFSPF');</script>
+    <!-- End Google Tag Manager -->
+	
+	
+	<title>MIT Pune's Arts, Commerce, and Science College - Best Ranked Institute by India Today</title>
+	<!-- Define Charset -->
+	
+	<meta name="title" content="MIT Pune's Arts, Commerce, and Science College - Best Ranked Institute by India Today">
+<meta name="description" content="A Leading Art, Commerce, Science College in Pune offers a wide range of UG and PG Courses in India. Apply now at MIT Pune's ACSC for pursuing Holistic Education in BBA, BBA IB, BBA CA, BCom, BCA, BSc, MCom, MSc, MA, etc.">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" media="screen" />
+	<!-- Font Awesome CSS -->
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" media="screen" />
+	<!-- Slicknav -->
+	<link rel="stylesheet" type="text/css" href="css/slicknav.css" media="screen" />
+	<!-- Margo CSS Styles -->
+	<link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="css/prettyPhoto.css" />
+	<!-- Responsive CSS Styles -->
+	<link rel="stylesheet" type="text/css" href="css/responsive.css" media="screen" />
+	<!-- Css3 Transitions Styles -->
+	<link rel="stylesheet" type="text/css" href="css/animate.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="css/jquery.feedBackBox.css" media="screen" />
+	<!-- favicon -->
+	<link rel="shortcut icon" href="icons/favicon.png" />
+	<!-- calendar css and js -->
+	<link href="css/tcal.css" rel="stylesheet" />
+	<script type="text/javascript" src="js/tcal.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	<!-- another calendar css (js links in footer) -->
+	<link href="css/datepicker.css" rel="stylesheet" />
+	
+	<!-- css for filtering (added on 13 april 2016) -->
+	<style>
+	legend a { color:inherit; }
+	legend.legendStyle { padding-left:5px; padding-right:5px; }
+	fieldset.fsStyle { font-family:Verdana, Arial, sans-serif; font-size:small; font-weight:normal; border:1px solid #cccccc; padding:4px 15px 4px 30px; margin:5px; }
+	legend.legendStyle { font-size:90%; color:#888888; background-color:transparent; font-weight:bold; }
+	legend { width:auto; border-bottom:0px; }
+	</style>
+	
+	<!-- scripts -->
+	<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+	<script type="text/javascript" src="js/jquery.migrate.js"></script>
+	<script type="text/javascript" src="js/modernizrr.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/jquery.fitvids.js"></script>
+	<script type="text/javascript" src="js/owl.carousel.min.js"></script>
+	<script type="text/javascript" src="js/nivo-lightbox.min.js"></script>
+	<script type="text/javascript" src="js/jquery.isotope.min.js"></script>
+	<script type="text/javascript" src="js/jquery.appear.js"></script>
+	<script type="text/javascript" src="js/count-to.js"></script>
+	<script type="text/javascript" src="js/jquery.textillate.js"></script>
+	<script type="text/javascript" src="js/jquery.lettering.js"></script>
+	<script type="text/javascript" src="js/jquery.easypiechart.min.js"></script>
+	<script type="text/javascript" src="js/jquery.nicescroll.min.js"></script> <!-- scrolling effect js file -->
+	<script type="text/javascript" src="js/jquery.parallax.js"></script>
+	<script type="text/javascript" src="js/mediaelement-and-player.js"></script>
+	<script type="text/javascript" src="js/jquery.slicknav.js"></script>
+	<script type="text/javascript" src="js/jquery.bootstrap.newsbox.min.js"></script>
+	<script type="text/javascript" src="js/jquery.prettyPhoto.js" charset="utf-8"></script>
+	<script type="text/javascript">
+	function reload()
+	{
+		img = document.getElementById("captcha");
+		img.src = "captcha.php?rand_number=" + Math.random();
+	}
+	</script>
+		<!---Pop up code -->
+	<style>
+		/*31-07-23 marquee css start*/
+		.latest-posts-classic {
+			height: 20em;
+    	    margin: 1em auto;
+    	    overflow: hidden;
+    	    background: white;
+    	    position: relative;
+    	    box-sizing: border-box;
+    		}
+		.marquee {
+    top: 6em;
+    position: relative;
+    box-sizing: border-box;
+    animation: marquee 5s linear infinite;
+}
+
+.marquee:hover {
+    animation-play-state: paused;
+}
+
+/* Make it move! */
+@keyframes marquee {
+    0%   { top:   8em }
+    100% { top: -11em }
+}
+
+/* Make it look pretty */
+.latest-posts-classic:before, .latest-posts-classic::before,
+.latest-posts-classic:after,  .latest-posts-classic::after {
+    left: 0;
+    z-index: 1;
+    content: '';
+    position: absolute;
+    pointer-events: none;
+    width: 100%; height: 2em;
+    background-image: linear-gradient(top, #FFF, rgba(255,255,255,0));
+}
+
+.latest-posts-classic:after, .latest-posts-classic::after {
+    bottom: 0;
+    transform: rotate(180deg);
+}
+
+.latest-posts-classic:before, .latest-posts-classic::before {
+    top: 0;
+}
+a.read-more.pull-right.btn-sm {
+    position: absolute;
+    bottom: -10px;
+    background: white;
+    width: 100%;
+}
+		/*end*/
+	    .instructions {
+  text-align:center;
+  font-size:20px;
+  margin: 15vh;
+} 
+</style>
+
+	
+	<!-- Global site tag (gtag.js) - AdWords: 809552046 
+	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-809552046"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-809552046'); </script> 
+	    <script> gtag('event', 'page_view', { 'send_to': 'AW-809552046', 'user_id': 'replace with value' }); </script>
+-->
+
+<!-- Facebook Pixel Code 
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1652293198383046');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1652293198383046&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->	  
+
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '347676189543227');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=347676189543227&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+
+
+<!-- Evonix Tech. 06-03-2019 -->
+<!-- Global site tag (gtag.js) - Google Ads: 760165804 
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-760165804"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-760165804');
+</script>
+ -->
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-222056104-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-222056104-1');
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Place",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "15.8057035",
+    "longitude": "73.5211407"
+  },
+  "name": "MIT Arts, Commerce & Science College"
+}
+</script>
+<script type="application/ld+json">
+  	{
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name" : "MIT Arts, Commerce & Science College",
+        "url": "https://mitacsc.ac.in/",
+        "potentialAction": {
+        "@type": "SearchAction",
+         "target": " https://mitacsc.ac.in/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+    	}
+  	}
+</script>
+
+<script type="application/ld+json">
+  { 
+"@context" : "https://schema.org",
+    "@type" : "CollegeOrUniversity",
+    "name" : "MIT Arts, Commerce & Science College",
+    "alternateName" : "MIT ACSC",
+    "@id" : "Organization",
+    "description" : "A Leading Art, Commerce, Science College in Pune offers a wide range of UG and PG Courses in India. Apply now at MIT Pune's ACSC for pursuing Holistic Education in BBA, BBA IB, BBA CA, BCom, BCA, BSc, MCom, MSc, MA, etc.",
+    "url" : "https://mitacsc.ac.in/",
+    "logo" : "https://mitacsc.ac.in/uploads/1656049454_487325_1599039873_355667_plogo.png",
+    "email" : " admission@mitacsc.ac.in",
+    "sameAs": [ "https://www.facebook.com/MITACSCALANDI/",
+    "https://www.instagram.com/mitacsc_official/",
+    "https://www.youtube.com/channel/UCqfq1nwcv_sMT36xCbke2XQ"
+  ],
+  "address": {
+    "@type" : "PostalAddress",
+      "streetAddress" : "MIT Arts,Commerce & Science College
+Alandi Road, Pune - 412105 Maharashtra, India",
+      "addressLocality" : "Pune",
+      "addressRegion" : "Maharashtra",
+      "postalCode" : "412105"
+     },
+    "hasMap": "https://goo.gl/maps/zTDnarwfVa8nBWxZA",
+  "openingHours": "Mo, Tu, We, Th, Fr, Sa (08:30-17:00)",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+91-8055350000",
+    "contactType": "Admission Enquiry"
+}}
+  </script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "MIT Arts, Commerce & Science College",
+  "image": "https://mitacsc.ac.in/uploads/1656049454_487325_1599039873_355667_plogo.png",
+  "@id": "",
+  "url": "https://mitacsc.ac.in/",
+  "telephone": "+91-8055350000",
+  "address": {
+	"@type": "PostalAddress",
+	"streetAddress": "
+MIT Arts,Commerce & Science College
+Alandi Road, Pune - 412105 Maharashtra, India",
+	"addressLocality": "Pune",
+	"postalCode": "412105",
+	"addressCountry": "IN"
+  },
+  "openingHoursSpecification": {
+	"@type": "OpeningHoursSpecification",
+	"dayOfWeek": [
+  	"Monday",
+  	"Tuesday",
+  	"Wednesday",
+  	"Thursday",
+  	"Friday",
+  	"Saturday"
+	],
+	"opens": "08:30",
+	"closes": "17:00"
+  },
+  "sameAs": ["https://www.facebook.com/MITACSCALANDI/","https://www.instagram.com/mitacsc_official/","https://www.youtube.com/channel/UCqfq1nwcv_sMT36xCbke2XQ"]
+}
+</script>
+
+
+</head>
+<body>
+    
+<!-- Google Tag Manager (noscript) Added by Jeevan Tonde on 01-Jan-2020 --->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MPQFSPF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+<script type="text/javascript">
+$('#memberModal').modal('show');
+</script>
+
+<!-- Container -->
+<div id="container">
+	<!-- Start Header -->
+	 <!--google-site-verification-->
+<meta name="google-site-verification" content="Woxgjz7Xut1IunSZ88BIX8obgThtkLycL1L0HmgdZ1A" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-222056104-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-222056104-1');
+</script>
+<link href="css/metisMenu.min.css" rel="stylesheet" />
+<script type="text/javascript" src="js/metisMenu.min.js"></script>
+
+
+<style>
+  header{
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+</style>
+
+
+	<!-- Start Top Bar -->
+	<div class="top-bar">
+		<div class="container">
+			<div class="row">
+			    <div class="col-md-4 col-sm-4 col-xs-12">
+					<ul class="mail-list">
+					<li><i class="topbar-icon fa fa-envelope-o" style="font-size:13px;color:white"></i>&nbsp;<a href="#" style="font-size:13px;color:white">admission@mitacsc.ac.in</a>&nbsp;|</li> 
+					<li>&nbsp;<i class="topbar-icon fa fa-phone" style="font-size:13px;color:white"></i><a href="tel:+918055350000"  style="font-size:13px;color:white">&nbsp;+91-8055350000</a></a></li>
+					</ul>
+				</div>
+			    <div class="col-md-8 col-sm-8 col-xs-12">
+					<ul class="mail-list">
+					<li><i class="fa fa-file" style="font-size:14px;color:white"></i>&nbsp;<a title="NIRF" href="https://mitacsc.ac.in/NIRF.php" target="_blank" style="font-size:14px;color:white">NIRF</a>&nbsp;|</li>
+					<!--<li><i class="fa fa-file" style="font-size:14px;color:white"></i>&nbsp;<a title="NIRF" href="linkpage.php?flid=15" target="_blank" style="font-size:14px;color:white">NIRF</a>&nbsp;|</li> -->
+					<li>&nbsp;<i class="fa fa-user-circle" style="font-size:14px;color:white"></i><a  title="CAREERS" href="https://mitacsc.ac.in/career.php" target="_blank" style="font-size:14px;color:white">&nbsp;CAREERS</a>&nbsp;|</li>
+				    <li>&nbsp;<i class="fa fa-question-circle" style="font-size:14px;color:white"></i><a href="https://mitacsc.ac.in/contact.php?cid=5" target="_blank" style="font-size:14px;color:white">&nbsp;ENQUIRY NOW</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- End Top Bar -->
+
+	<div class="second-bar">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="navbar-brand">
+												<a href="https://mitacsc.ac.in/"><img alt="" src="uploads/1656049454_487325_1599039873_355667_plogo.png" class="img-responsive" style="width:165px !important;" /><div class="clearfix"></div></a>
+						<p id="black"></p>
+					</div>
+				</div>
+				<div class="col-sm-8">
+          <ul class="mail-list">
+         
+               <li><a href="https://apply.mitacsc.ac.in/index.php?utm_source=695" class="btn " target="_blank" style="margin-top:10px;font-size:15px;color:#762828;border:1px solid #762828;">Apply Now</a></li>
+            
+            
+        </ul>
+			</div>
+		</div>
+	</div>
+	<!-- Start Header (Logo & Naviagtion) -->
+<header class="clearfix" id="header">
+	<div class="navbar navbar-default">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><i class="fa fa-bars"></i></button>
+			</div>
+			<div class="row">
+				<div class="navbar-collapse collapse">
+					<ul class="nav navbar-nav">
+					    
+						<li><a  href="https://mitacsc.ac.in/">HOME</a></li>
+						<li class='dropdown-submenu'><a>ABOUT US</a><ul class='dropdown-menu dropdown'><li><a href='pageinfo.php?cid=2&scid=197'>MAEER</a></li><li><a href='pageinfo.php?cid=2&scid=337'>LEADERSHIP</a></li><li><a href='pageinfo.php?cid=2&scid=409'>ORGANOGRAM</a></li><li><a href='pageinfo.php?cid=2&scid=192'>MITACSC</a></li><li><a href='pageinfo.php?cid=2&scid=193'>VISION & MISSION</a></li><li><a href='pageinfo.php?cid=2&scid=196'>LIST OF AWARDS & ACHIEVEMENTS</a></li><li><a href='pageinfo.php?cid=2&scid=332'>CORE VALUES</a></li><li><a href='pageinfo.php?cid=2&scid=483'>GALLERY</a></li><li><a href='splan.pdf'	target='_blank'>STRATEGIC PLAN</a></li></ul></li><li class='dropdown-submenu'><a>ADMISSIONS</a><ul class='dropdown-menu dropdown'><li class='dropdown-submenu'><a>U.G. PROGRAMS</a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=3&scid=198&sscid=229'>B.B.A.</a></li><li><a href='pageinfo.php?cid=3&scid=198&sscid=230'>B.B.A. (COMPUTER APPLICATION)</a></li><li><a href='pageinfo.php?cid=3&scid=198&sscid=231'>B.B.A. (INTERNATIONAL BUSINESS)</a></li><li><a href='pageinfo.php?cid=3&scid=198&sscid=232'>B.SC. (COMPUTER SCIENCE)</a></li><li><a href='pageinfo.php?cid=3&scid=198&sscid=233'>B. COM.</a></li><li class='dropdown-submenu'><a>B.C.A .(SCIENCE)</a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=3&scid=198&sscid=351&ssscid=423'>INTRODUCTION</a></li><li><a href='pageinfo.php?cid=3&scid=198&sscid=351&ssscid=424'>PROGRAM STRUCTURE</a></li></ul></li><li class='dropdown-submenu'><a>B.SC. (ANIMATION)</a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=3&scid=198&sscid=352&ssscid=425'>INTRODUCTION</a></li><li><a href='pageinfo.php?cid=3&scid=198&sscid=352&ssscid=426'>PROGRAM STRUCTURE</a></li></ul></li><li class='dropdown-submenu'><a>B.SC. CYBER AND DIGITAL SCIENCE</a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=3&scid=198&sscid=470&ssscid=471'>INTRODUCTION</a></li><li><a href='pageinfo.php?cid=3&scid=198&sscid=470&ssscid=472'>PROGRAM STRUCTURE</a></li></ul></li><li class='dropdown-submenu'><a>B. SC. (INFORMATION TECHNOLOGY)</a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=3&scid=198&sscid=491&ssscid=492'>INTRODUCTION</a></li><li><a href='pageinfo.php?cid=3&scid=198&sscid=491&ssscid=493'>PROGRAM STRUCTURE</a></li></ul></li></ul></li><li class='dropdown-submenu'><a>P.G. PROGRAMS</a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=3&scid=199&sscid=237'>M.SC.(COMPUTER SCIENCE)</a></li><li class='dropdown-submenu'><a>M.SC. (COMPUTER APPLICATIONS)</a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=3&scid=199&sscid=353&ssscid=427'>INTRODUCTION</a></li><li><a href='pageinfo.php?cid=3&scid=199&sscid=353&ssscid=428'>PROGRAM STRUCTURE</a></li></ul></li><li class='dropdown-submenu'><a>M.A. (MASS COMMUNICATION AND JOURNALISM )</a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=3&scid=199&sscid=357&ssscid=429'>INTRODUCTION</a></li><li><a href='pageinfo.php?cid=3&scid=199&sscid=357&ssscid=430'>PROGRAM STRUCTURE</a></li></ul></li><li class='dropdown-submenu'><a>M.COM.</a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=3&scid=199&sscid=358&ssscid=431'>INTRODUCTION</a></li><li><a href='pageinfo.php?cid=3&scid=199&sscid=358&ssscid=432'>PROGRAM STRUCTURE</a></li></ul></li><li class='dropdown-submenu'><a>M.SC.(INDUSTRIAL MATHEMATICS WITH COMPUTER APPLICATION)</a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=3&scid=199&sscid=359&ssscid=433'>INTRODUCTION</a></li><li><a href='pageinfo.php?cid=3&scid=199&sscid=359&ssscid=434'>PROGRAM STRUCTURE</a></li></ul></li></ul></li><li><a href='pageinfo.php?cid=3&scid=334'>ENTRANCE EXAM</a></li><li><a href='pageinfo.php?cid=3&scid=345'>SCHOLARSHIP</a></li><li><a href='pageinfo.php?cid=3&scid=330'>PAY US</a></li><li><a href='pageinfo.php?cid=3&scid=405'>CANCELLATION RULE</a></li></ul></li><li class='dropdown-submenu'><a>ACADEMICS</a><ul class='dropdown-menu dropdown'><li class='dropdown-submenu'><a>ACADEMIC DEPARTMENTS</a><ul class='dropdown-menu sup-dropdown'><li class='dropdown-submenu'><a>ARTS & COMMERCE</a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=7&scid=202&sscid=238&ssscid=451'>B.COM.</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=238&ssscid=452'>M.COM.</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=238&ssscid=454'>M.A.(MCJ)</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=238&ssscid=255'>FACULTY</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=238&ssscid=253'>DEPARTMENTAL ACTIVITIES</a></li></ul></li><li class='dropdown-submenu'><a>COMPUTER APPLICATION</a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=7&scid=202&sscid=239&ssscid=445'>BBA(COMPUTER APPLICATION)</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=239&ssscid=446'>BCA(SCIENCE)</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=239&ssscid=449'>M.SC.(COMPUTER APPLICATION)</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=239&ssscid=261'>FACULTY</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=239&ssscid=262'>DEPARTMENTAL ACTIVITIES</a></li></ul></li><li class='dropdown-submenu'><a>BUSINESS ADMINISTRATION & INTERNATIONAL BUSINESS</a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=7&scid=202&sscid=240&ssscid=456'>B.B.A.</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=240&ssscid=457'>B.B.A.(I.B.)</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=240&ssscid=271'>FACULTY</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=240&ssscid=272'>DEPARTMENTAL ACTIVITIES</a></li></ul></li><li class='dropdown-submenu'><a>SCIENCE & COMPUTER SCIENCE</a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=7&scid=202&sscid=241&ssscid=460'>B.SC. (COMPUTER SCIENCE)</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=241&ssscid=464'>B.SC.ANIMATION</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=241&ssscid=461'>M.SC. (COMPUTER SCIENCE)</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=241&ssscid=468'>M.SC. (IMCA)</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=241&ssscid=494'>B.SC.(INFORMATION TECHNOLOGY)</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=241&ssscid=280'>FACULTY</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=241&ssscid=281'>DEPARTMENTAL ACTIVITIES</a></li></ul></li><li class='dropdown-submenu'><a>MATHEMATICS</a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=7&scid=202&sscid=476&ssscid=477'>M.SC. (IMCA)</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=476&ssscid=479'>FACULTY</a></li></ul></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=419'>TEACHING METHODOLOGIES</a></li></ul></li><li class='dropdown-submenu'><a>NON TEACHING STAFF</a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=7&scid=203&sscid=416'>ADMINISTRATION STAFF</a></li><li><a href='pageinfo.php?cid=7&scid=203&sscid=417'>SUPPORTING STAFF</a></li><li><a href='pageinfo.php?cid=7&scid=203&sscid=418'>TECHNICAL STAFF</a></li></ul></li><li class='dropdown-submenu'><a>LIBRARY</a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=7&scid=204&sscid=242'>INTRODUCTION</a></li><li><a href='pageinfo.php?cid=7&scid=204&sscid=420'>LIBRARY MANUAL</a></li><li><a href='pageinfo.php?cid=7&scid=204&sscid=244'>COLLECTION</a></li><li><a href='pageinfo.php?cid=7&scid=204&sscid=290'>DIGITAL RESOURCES</a></li><li><a href='pageinfo.php?cid=7&scid=204&sscid=350'>LIBRARY STAFF</a></li></ul></li><li class='dropdown-submenu'><a>PHYSICAL EDUCATION</a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=7&scid=205&sscid=484'>OBJECTIVES</a></li><li><a href='pageinfo.php?cid=7&scid=205&sscid=485'>SPORTS FACILITIES</a></li><li><a href='pageinfo.php?cid=7&scid=205&sscid=486'>EVENTS/ COMPETITIONS</a></li><li><a href='pageinfo.php?cid=7&scid=205&sscid=487'>ACHIEVEMENTS</a></li><li><a href='pageinfo.php?cid=7&scid=205&sscid=488'>GALLERY</a></li><li><a href='pageinfo.php?cid=7&scid=205&sscid=489'>FACULTY</a></li></ul></li><li><a href='pageinfo.php?cid=7&scid=333'>SKILL DEVELOPMENT COURSES</a></li><li><a href='pageinfo.php?cid=7&scid=443'>MOUS AND  COLLABORATIONS</a></li></ul></li><li class='dropdown-submenu'><a>PLACEMENTS</a><ul class='dropdown-menu dropdown'><li><a href='pageinfo.php?cid=4&scid=206'>INTRODUCTION</a></li><li class='dropdown-submenu'><a>PLACEMENT STATISTICS</a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=4&scid=402&sscid=403'>PLACEMENT RECORD</a></li><li><a href='pageinfo.php?cid=4&scid=402&sscid=404'>INTERNSHIP RECORD</a></li></ul></li><li><a href='pageinfo.php?cid=4&scid=325'>REGISTRATION</a></li></ul></li><li class='dropdown-submenu'><a>STUDENTS CORNER</a><ul class='dropdown-menu dropdown'><li><a href='pageinfo.php?cid=6&scid=435'>ACADEMIC CALENDAR</a></li><li><a href='student-corner-downloads.php?cid=6&scid=214'>DOWNLOADS</a></li><li><a href='student-corner-notice-circulars.php?cid=6&scid=216'>NOTICES & CIRCULARS</a></li><li class='dropdown-submenu'><a>CAMPUS LIFE</a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=6&scid=217&sscid=320'>SOCIAL INITIATIVES</a></li><li><a href='pageinfo.php?cid=6&scid=217&sscid=326'>CULTURAL EVENTS</a></li><li><a href='pageinfo.php?cid=6&scid=217&sscid=327'>COLLEGE ATHLETES</a></li></ul></li><li><a href='pageinfo.php?cid=6&scid=294'>STUDENT CLUBS</a></li><li><a href='pageinfo.php?cid=6&scid=295'>ALUMNI</a></li><li><a href='pageinfo.php?cid=6&scid=340'>STUDENT SPEAKS</a></li><li class='dropdown-submenu'><a>COLLEGE ERP</a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=6&scid=438&sscid=439'>STUDENT LOGIN</a></li><li><a href='pageinfo.php?cid=6&scid=438&sscid=440'>STAFF LOGIN</a></li></ul></li><li><a href='pageinfo.php?cid=6&scid=482'>KALPAVRIKSHA</a></li></ul></li><li class='dropdown-submenu'><a>RESEARCH</a><ul class='dropdown-menu dropdown'><li><a href='pageinfo.php?cid=8&scid=219'>RESEARCH & DEVELOPMENT CELL</a></li><li><a href='pageinfo.php?cid=8&scid=221'>COMMITTEE MEMBERS</a></li><li><a href='pageinfo.php?cid=8&scid=222'>RESEARCH ASPIRANTS</a></li><li><a href='pageinfo.php?cid=8&scid=223'>RESEARCH PROJECTS</a></li><li><a href='pageinfo.php?cid=8&scid=414'>RESEARCH MANUAL</a></li><li><a href='pageinfo.php?cid=8&scid=473'>PATENT </a></li></ul></li><li class='dropdown-submenu'><a>IQAC/SSR</a><ul class='dropdown-menu dropdown'><li><a href='pageinfo.php?cid=11&scid=410'>INTERNAL QUALITY ASSURANCE CELL</a></li><li><a href='pageinfo.php?cid=11&scid=411'>MINUTES OF MEETING</a></li><li><a href='pageinfo.php?cid=11&scid=412'>POLICY AND PROCEDURE</a></li><li><a href='pageinfo.php?cid=11&scid=415'>STAKEHOLDER'S FEEDBACK</a></li><li><a href='pageinfo.php?cid=11&scid=467'>NAAC CERTIFICATE</a></li><li><a href='pageinfo.php?cid=11&scid=474'>IIQA</a></li><li><a href='pageinfo.php?cid=11&scid=475'>SSR</a></li><li><a href='pageinfo.php?cid=11&scid=480'>SSS</a></li><li><a href='pageinfo.php?cid=11&scid=481'>GREEN  AUDIT</a></li></ul></li><li><a href='contact.php?cid=5'>CONTACT US</a></li>						
+					</ul>
+				</div>
+			</div>
+		</div>
+		
+		<!-- Mobile Menu Start -->
+		<ul class="wpb-mobile-menu">
+			<li><a  href="https://mitacsc.ac.in/">HOME</a></li>
+			<li class='dropdown-submenu'><a>ABOUT US</a><ul class='dropdown-menu dropdown'><li><a href='pageinfo.php?cid=2&scid=197'>MAEER</a></li><li><a href='pageinfo.php?cid=2&scid=337'>LEADERSHIP</a></li><li><a href='pageinfo.php?cid=2&scid=409'>ORGANOGRAM</a></li><li><a href='pageinfo.php?cid=2&scid=192'>MITACSC</a></li><li><a href='pageinfo.php?cid=2&scid=193'>VISION & MISSION</a></li><li><a href='pageinfo.php?cid=2&scid=196'>LIST OF AWARDS & ACHIEVEMENTS</a></li><li><a href='pageinfo.php?cid=2&scid=332'>CORE VALUES</a></li><li><a href='pageinfo.php?cid=2&scid=483'>GALLERY</a></li><li><a href='pageinfo.php?cid=2&scid=349'>STRATEGIC PLAN</a></li></ul></li><li class='dropdown-submenu'><a>ADMISSIONS</a><ul class='dropdown-menu dropdown'><li class='dropdown-submenu'><a>U.G. PROGRAMS </a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=3&scid=198&sscid=229'>B.B.A.</a></li><li><a href='pageinfo.php?cid=3&scid=198&sscid=230'>B.B.A. (COMPUTER APPLICATION)</a></li><li><a href='pageinfo.php?cid=3&scid=198&sscid=231'>B.B.A. (INTERNATIONAL BUSINESS)</a></li><li><a href='pageinfo.php?cid=3&scid=198&sscid=232'>B.SC. (COMPUTER SCIENCE)</a></li><li><a href='pageinfo.php?cid=3&scid=198&sscid=233'>B. COM.</a></li><li class='dropdown-submenu'><a>B.C.A .(SCIENCE) </a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=3&scid=198&sscid=351&ssscid=423'>INTRODUCTION</a></li><li><a href='pageinfo.php?cid=3&scid=198&sscid=351&ssscid=424'>PROGRAM STRUCTURE</a></li></ul></li><li class='dropdown-submenu'><a>B.SC. (ANIMATION) </a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=3&scid=198&sscid=352&ssscid=425'>INTRODUCTION</a></li><li><a href='pageinfo.php?cid=3&scid=198&sscid=352&ssscid=426'>PROGRAM STRUCTURE</a></li></ul></li><li class='dropdown-submenu'><a>B.SC. CYBER AND DIGITAL SCIENCE </a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=3&scid=198&sscid=470&ssscid=471'>INTRODUCTION</a></li><li><a href='pageinfo.php?cid=3&scid=198&sscid=470&ssscid=472'>PROGRAM STRUCTURE</a></li></ul></li><li class='dropdown-submenu'><a>B. SC. (INFORMATION TECHNOLOGY) </a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=3&scid=198&sscid=491&ssscid=492'>INTRODUCTION</a></li><li><a href='pageinfo.php?cid=3&scid=198&sscid=491&ssscid=493'>PROGRAM STRUCTURE</a></li></ul></li></ul></li><li class='dropdown-submenu'><a>P.G. PROGRAMS </a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=3&scid=199&sscid=237'>M.SC.(COMPUTER SCIENCE)</a></li><li class='dropdown-submenu'><a>M.SC. (COMPUTER APPLICATIONS) </a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=3&scid=199&sscid=353&ssscid=427'>INTRODUCTION</a></li><li><a href='pageinfo.php?cid=3&scid=199&sscid=353&ssscid=428'>PROGRAM STRUCTURE</a></li></ul></li><li class='dropdown-submenu'><a>M.A. (MASS COMMUNICATION AND JOURNALISM ) </a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=3&scid=199&sscid=357&ssscid=429'>INTRODUCTION</a></li><li><a href='pageinfo.php?cid=3&scid=199&sscid=357&ssscid=430'>PROGRAM STRUCTURE</a></li></ul></li><li class='dropdown-submenu'><a>M.COM. </a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=3&scid=199&sscid=358&ssscid=431'>INTRODUCTION</a></li><li><a href='pageinfo.php?cid=3&scid=199&sscid=358&ssscid=432'>PROGRAM STRUCTURE</a></li></ul></li><li class='dropdown-submenu'><a>M.SC.(INDUSTRIAL MATHEMATICS WITH COMPUTER APPLICATION) </a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=3&scid=199&sscid=359&ssscid=433'>INTRODUCTION</a></li><li><a href='pageinfo.php?cid=3&scid=199&sscid=359&ssscid=434'>PROGRAM STRUCTURE</a></li></ul></li></ul></li><li><a href='pageinfo.php?cid=3&scid=334'>ENTRANCE EXAM</a></li><li><a href='pageinfo.php?cid=3&scid=345'>SCHOLARSHIP</a></li><li><a href='pageinfo.php?cid=3&scid=330'>PAY US</a></li><li><a href='pageinfo.php?cid=3&scid=405'>CANCELLATION RULE</a></li></ul></li><li class='dropdown-submenu'><a>ACADEMICS</a><ul class='dropdown-menu dropdown'><li class='dropdown-submenu'><a>ACADEMIC DEPARTMENTS </a><ul class='dropdown-menu sup-dropdown'><li class='dropdown-submenu'><a>ARTS & COMMERCE </a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=7&scid=202&sscid=238&ssscid=451'>B.COM.</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=238&ssscid=452'>M.COM.</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=238&ssscid=454'>M.A.(MCJ)</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=238&ssscid=255'>FACULTY</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=238&ssscid=253'>DEPARTMENTAL ACTIVITIES</a></li></ul></li><li class='dropdown-submenu'><a>COMPUTER APPLICATION </a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=7&scid=202&sscid=239&ssscid=445'>BBA(COMPUTER APPLICATION)</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=239&ssscid=446'>BCA(SCIENCE)</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=239&ssscid=449'>M.SC.(COMPUTER APPLICATION)</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=239&ssscid=261'>FACULTY</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=239&ssscid=262'>DEPARTMENTAL ACTIVITIES</a></li></ul></li><li class='dropdown-submenu'><a>BUSINESS ADMINISTRATION & INTERNATIONAL BUSINESS </a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=7&scid=202&sscid=240&ssscid=456'>B.B.A.</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=240&ssscid=457'>B.B.A.(I.B.)</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=240&ssscid=271'>FACULTY</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=240&ssscid=272'>DEPARTMENTAL ACTIVITIES</a></li></ul></li><li class='dropdown-submenu'><a>SCIENCE & COMPUTER SCIENCE </a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=7&scid=202&sscid=241&ssscid=460'>B.SC. (COMPUTER SCIENCE)</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=241&ssscid=464'>B.SC.ANIMATION</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=241&ssscid=461'>M.SC. (COMPUTER SCIENCE)</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=241&ssscid=468'>M.SC. (IMCA)</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=241&ssscid=494'>B.SC.(INFORMATION TECHNOLOGY)</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=241&ssscid=280'>FACULTY</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=241&ssscid=281'>DEPARTMENTAL ACTIVITIES</a></li></ul></li><li class='dropdown-submenu'><a>MATHEMATICS </a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=7&scid=202&sscid=476&ssscid=477'>M.SC. (IMCA)</a></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=476&ssscid=479'>FACULTY</a></li></ul></li><li><a href='pageinfo.php?cid=7&scid=202&sscid=419'>TEACHING METHODOLOGIES</a></li></ul></li><li class='dropdown-submenu'><a>NON TEACHING STAFF </a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=7&scid=203&sscid=416'>ADMINISTRATION STAFF</a></li><li><a href='pageinfo.php?cid=7&scid=203&sscid=417'>SUPPORTING STAFF</a></li><li><a href='pageinfo.php?cid=7&scid=203&sscid=418'>TECHNICAL STAFF</a></li></ul></li><li class='dropdown-submenu'><a>LIBRARY </a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=7&scid=204&sscid=242'>INTRODUCTION</a></li><li><a href='pageinfo.php?cid=7&scid=204&sscid=420'>LIBRARY MANUAL</a></li><li><a href='pageinfo.php?cid=7&scid=204&sscid=244'>COLLECTION</a></li><li><a href='pageinfo.php?cid=7&scid=204&sscid=290'>DIGITAL RESOURCES</a></li><li><a href='pageinfo.php?cid=7&scid=204&sscid=350'>LIBRARY STAFF</a></li></ul></li><li class='dropdown-submenu'><a>PHYSICAL EDUCATION </a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=7&scid=205&sscid=484'>OBJECTIVES</a></li><li><a href='pageinfo.php?cid=7&scid=205&sscid=485'>SPORTS FACILITIES</a></li><li><a href='pageinfo.php?cid=7&scid=205&sscid=486'>EVENTS/ COMPETITIONS</a></li><li><a href='pageinfo.php?cid=7&scid=205&sscid=487'>ACHIEVEMENTS</a></li><li><a href='pageinfo.php?cid=7&scid=205&sscid=488'>GALLERY</a></li><li><a href='pageinfo.php?cid=7&scid=205&sscid=489'>FACULTY</a></li></ul></li><li><a href='pageinfo.php?cid=7&scid=333'>SKILL DEVELOPMENT COURSES</a></li><li><a href='pageinfo.php?cid=7&scid=443'>MOUS AND  COLLABORATIONS</a></li></ul></li><li class='dropdown-submenu'><a>PLACEMENTS</a><ul class='dropdown-menu dropdown'><li><a href='pageinfo.php?cid=4&scid=206'>INTRODUCTION</a></li><li class='dropdown-submenu'><a>PLACEMENT STATISTICS </a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=4&scid=402&sscid=403'>PLACEMENT RECORD</a></li><li><a href='pageinfo.php?cid=4&scid=402&sscid=404'>INTERNSHIP RECORD</a></li></ul></li><li><a href='pageinfo.php?cid=4&scid=325'>REGISTRATION</a></li></ul></li><li class='dropdown-submenu'><a>STUDENTS CORNER</a><ul class='dropdown-menu dropdown'><li><a href='pageinfo.php?cid=6&scid=435'>ACADEMIC CALENDAR</a></li><li><a href='student-corner-downloads.php?cid=6&scid=214'>DOWNLOADS</a></li><li><a href='student-corner-notice-circulars.php?cid=6&scid=216'>NOTICES & CIRCULARS</a></li><li class='dropdown-submenu'><a>CAMPUS LIFE </a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=6&scid=217&sscid=320'>SOCIAL INITIATIVES</a></li><li><a href='pageinfo.php?cid=6&scid=217&sscid=326'>CULTURAL EVENTS</a></li><li><a href='pageinfo.php?cid=6&scid=217&sscid=327'>COLLEGE ATHLETES</a></li></ul></li><li><a href='pageinfo.php?cid=6&scid=294'>STUDENT CLUBS</a></li><li><a href='pageinfo.php?cid=6&scid=295'>ALUMNI</a></li><li><a href='pageinfo.php?cid=6&scid=340'>STUDENT SPEAKS</a></li><li class='dropdown-submenu'><a>COLLEGE ERP </a><ul class='dropdown-menu sup-dropdown'><li><a href='pageinfo.php?cid=6&scid=438&sscid=439'>STUDENT LOGIN</a></li><li><a href='pageinfo.php?cid=6&scid=438&sscid=440'>STAFF LOGIN</a></li></ul></li><li><a href='pageinfo.php?cid=6&scid=482'>KALPAVRIKSHA</a></li></ul></li><li class='dropdown-submenu'><a>RESEARCH</a><ul class='dropdown-menu dropdown'><li><a href='pageinfo.php?cid=8&scid=219'>RESEARCH & DEVELOPMENT CELL</a></li><li><a href='pageinfo.php?cid=8&scid=221'>COMMITTEE MEMBERS</a></li><li><a href='pageinfo.php?cid=8&scid=222'>RESEARCH ASPIRANTS</a></li><li><a href='pageinfo.php?cid=8&scid=223'>RESEARCH PROJECTS</a></li><li><a href='pageinfo.php?cid=8&scid=414'>RESEARCH MANUAL</a></li><li><a href='pageinfo.php?cid=8&scid=473'>PATENT </a></li></ul></li><li class='dropdown-submenu'><a>IQAC/SSR</a><ul class='dropdown-menu dropdown'><li><a href='pageinfo.php?cid=11&scid=410'>INTERNAL QUALITY ASSURANCE CELL</a></li><li><a href='pageinfo.php?cid=11&scid=411'>MINUTES OF MEETING</a></li><li><a href='pageinfo.php?cid=11&scid=412'>POLICY AND PROCEDURE</a></li><li><a href='pageinfo.php?cid=11&scid=415'>STAKEHOLDER'S FEEDBACK</a></li><li><a href='pageinfo.php?cid=11&scid=467'>NAAC CERTIFICATE</a></li><li><a href='pageinfo.php?cid=11&scid=474'>IIQA</a></li><li><a href='pageinfo.php?cid=11&scid=475'>SSR</a></li><li><a href='pageinfo.php?cid=11&scid=480'>SSS</a></li><li><a href='pageinfo.php?cid=11&scid=481'>GREEN  AUDIT</a></li></ul></li><li><a href='contact.php?cid=5'>CONTACT US</a></li>		</ul>
+		<!-- Mobile Menu End -->
+	</div>
+	<!-- End Header ( Logo & Naviagtion ) -->
+</header>
+<body>
+<!-- Google Tag Manager (noscript) Dnyaneshwar on 02-05-2023-->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MPQFSPF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  	<!-- End Header -->
+	<!-- Start HomePage Slider -->
+	
+	
+	
+		<script>
+	$(document).ready(function(){
+		$("#myModalpop-1").modal('show');
+	});
+</script>
+
+
+	<div id="myModalpop-1" class="modal fade">
+        <div class="modal-dialog" style="width:43%;">
+            <div class="modal-content">
+                <div class="modal-header"style="padding:0px;">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">&times;</button>
+                </div>
+                <div class="modal-body">
+                   <a href="#" target="_blank"><img src="https://mitacsc.ac.in/popup-images/Artboard 1-min.jpg" style="margin-top:-31px;">
+                </div>
+            </div>
+        </div>
+    </div>
+	
+
+
+
+
+
+	
+	
+	
+	<section id="home">
+		<!-- Carousel -->
+		<div id="main-slide" class="carousel slide" data-ride="carousel">
+						<!-- Indicators -->
+			<ol class="carousel-indicators">
+				<li data-target='#main-slide' data-slide-to='0' class='active'></li><li data-target='#main-slide' data-slide-to='1'></li><li data-target='#main-slide' data-slide-to='2'></li><li data-target='#main-slide' data-slide-to='3'></li><li data-target='#main-slide' data-slide-to='4'></li><li data-target='#main-slide' data-slide-to='5'></li><li data-target='#main-slide' data-slide-to='6'></li>			</ol>
+			<!--/ Indicators end-->
+			<!-- Carousel inner -->
+			<div class="carousel-inner">
+				<div class='item active'><img class='img-responsive' src='uploads/1680954239_831816_facepage.jpg' alt='slider' /></div><div class='item'><img class='img-responsive' src='uploads/1688208821_430148_OBE ranking _webpage.jpg' alt='slider' /></div><div class='item'><img class='img-responsive' src='uploads/1690889075_550237_2023_times school-min (1).jpg' alt='slider' /></div><div class='item'><img class='img-responsive' src='uploads/1690889112_118950_1688208871_547809_1684384457_272338_1679979672_996280_2-min.jpg' alt='slider' /></div><div class='item'><img class='img-responsive' src='uploads/1690889134_544681_1688208889_506184_1688034526_177015_2023_WEB PAGE.jpg' alt='slider' /></div><div class='item'><img class='img-responsive' src='uploads/1690889151_417247_1688208908_805265_1679979778_597530_4.jpg' alt='slider' /></div><div class='item'><img class='img-responsive' src='uploads/1690889176_980094_1688208924_177763_1679979850_321433_5.jpg' alt='slider' /></div>			</div>
+			<!-- Carousel inner end-->
+			<!-- Controls -->
+			<!--<a class="left carousel-control" href="#main-slide" data-slide="prev">-->
+			<!--	<span><i class="fa fa-angle-left"></i></span>-->
+			<!--</a>-->
+			<!--<a class="right carousel-control" href="#main-slide" data-slide="next">-->
+			<!--	<span><i class="fa fa-angle-right"></i></span>-->
+			<!--</a>-->
+		</div>
+		<!-- /carousel -->
+	</section>
+	<!-- End HomePage Slider -->
+
+	<!-- Start Content -->
+	<div id="content" style="padding-top:0px; background:#FFFFFF;">
+		<div class="container" style="padding-top:20px;  background:#FFFFFF;">
+			<!-- Start Services Icons -->
+			<div class="row">
+				<!-- Start Service Icon 1 -->
+				<!--<div class="col-md-4 col-sm-4 animated" data-animation="fadeInRight" id="aboutus">
+										<h1 class="classic-title"><span>ABOUT MIT ACSC</span></h1>
+					<p>
+						<div style="text-align: justify;"><span style="font-family:tahoma,geneva,sans-serif"><big>With a vision to develop an excellent ambience for academics and research conjugated with a vibrant environment to meet the challenges of the fiercely competitive world, the founder of MIT group&nbsp; Prof.(Dr.) Vishwanath Karad took initiative to impart quality education with easy access to the young generation in rural area and the mission for excellence in education started under the name of MIT Arts, Commerce and Science College, Alandi(D), Pune, in 2007 under the aegis of Maharashtra Academy of Engineering and Educational Research (MAEER) Pune, affiliated to Savitribai Phule Pune University and recognized by the Government of Maharashtra.</big></span></div>
+						<br/>
+						<a href="pageinfo.php?cid=2&scid=192">Read more...</a>
+					</p>
+				</div> -->
+				<div class="col-md-4 col-sm-6 animated" data-animation="fadeInLeft" >
+					<!-- Classic Heading -->
+					<h1 class="classic-title"><span>AWARDS & ACHIEVEMENTS</span></h1>
+					<div class="row">
+						<div class="col-xs-12">
+                        
+							<div class="latest-posts-classic">
+								<div class="marquee"><div class="" style="height:500px!important;">
+									<ul>
+																					<li class="news-item">
+												<div class="post-row">
+													<div class="left-meta-post">
+														<div class="post-date">
+															<span class="day">01</span>
+															<span class="month">Jul</span>
+														</div>
+													</div>
+													<div class="p width80 pull-left">
+																													<a href="uploads/1688211415_210154_IMG-20230701-WA0077.jpg" target="_blank" class="post-title">MIT ACSC Alandi (D) - Pune received Gold Band with &#39;A&#39; Grade in OBE Ranking 2023 by R. World Institutional Ranking.</a>
+																													
+													<!--	<div class="post-content">
+															 Published: . 
+														</div> -->
+													</div>
+													<div class="clearfix"></div>
+												</div>
+											</li>
+											<div class="clearfix"></div>
+																						<li class="news-item">
+												<div class="post-row">
+													<div class="left-meta-post">
+														<div class="post-date">
+															<span class="day">01</span>
+															<span class="month">Jun</span>
+														</div>
+													</div>
+													<div class="p width80 pull-left">
+																													<a href="uploads/1685598926_652505_IMG-20230529-WA0002.pdf" target="_blank" class="post-title">Our students Mr Lokesh Mali and Pawan Nimbalkar won gold medal</a>
+																													
+													<!--	<div class="post-content">
+															 Published: . 
+														</div> -->
+													</div>
+													<div class="clearfix"></div>
+												</div>
+											</li>
+											<div class="clearfix"></div>
+																						<li class="news-item">
+												<div class="post-row">
+													<div class="left-meta-post">
+														<div class="post-date">
+															<span class="day">21</span>
+															<span class="month">Feb</span>
+														</div>
+													</div>
+													<div class="p width80 pull-left">
+																													<a href="uploads/1676955966_936968_certificate.pdf" target="_blank" class="post-title">   Dr. Amol Mane, Asst. Prof., Dept of BBA & BBA IB successfully completed Online Course on &#34;Corporate Strategy&#34; with 88.75% marks conducted by UCL College of Management, University of London.</a>
+																													
+													<!--	<div class="post-content">
+															 Published: . 
+														</div> -->
+													</div>
+													<div class="clearfix"></div>
+												</div>
+											</li>
+											<div class="clearfix"></div>
+																						<li class="news-item">
+												<div class="post-row">
+													<div class="left-meta-post">
+														<div class="post-date">
+															<span class="day">23</span>
+															<span class="month">Nov</span>
+														</div>
+													</div>
+													<div class="p width80 pull-left">
+																													<a href="uploads/1637662090_509516_Sadhna Dhobale Report.pdf" target="_blank" class="post-title">Heartiest Congratulations !!!  Miss. Sadhana Dhobale of Class SYBBA(CA)  participated & won the First Price In Innovative Brilliance Astra National Competition 2021 Organized by  NIIEM.</a>
+																													
+													<!--	<div class="post-content">
+															 Published: . 
+														</div> -->
+													</div>
+													<div class="clearfix"></div>
+												</div>
+											</li>
+											<div class="clearfix"></div>
+																						<li class="news-item">
+												<div class="post-row">
+													<div class="left-meta-post">
+														<div class="post-date">
+															<span class="day">27</span>
+															<span class="month">Sep</span>
+														</div>
+													</div>
+													<div class="p width80 pull-left">
+																													<a href="uploads/1632718457_381565_Deepak_Patil_Sep_2021.jpg" target="_blank" class="post-title">Heartiest Congratulations!!!Mr.Deepak Patil,TPO,has been awarded with “Outstanding Performance in Industry Connect & Placement Domain”presented by BeginUp Research Intelligence Pvt Ltd on 23 Sep 2021.</a>
+																													
+													<!--	<div class="post-content">
+															 Published: . 
+														</div> -->
+													</div>
+													<div class="clearfix"></div>
+												</div>
+											</li>
+											<div class="clearfix"></div>
+																						<li class="news-item">
+												<div class="post-row">
+													<div class="left-meta-post">
+														<div class="post-date">
+															<span class="day">04</span>
+															<span class="month">Sep</span>
+														</div>
+													</div>
+													<div class="p width80 pull-left">
+																													<a href="uploads/1630731060_285496_Dr. B. B. Waphare_August 2021.pdf" target="_blank" class="post-title">Heartiest Congratulations !!!  Dr. B. B. Waphare,  Principal, has been awarded with  ‘Incredible Researcher of India’  Presented by Record Owner  on 23rd August 2021.</a>
+																													
+													<!--	<div class="post-content">
+															 Published: . 
+														</div> -->
+													</div>
+													<div class="clearfix"></div>
+												</div>
+											</li>
+											<div class="clearfix"></div>
+																						<li class="news-item">
+												<div class="post-row">
+													<div class="left-meta-post">
+														<div class="post-date">
+															<span class="day">18</span>
+															<span class="month">Aug</span>
+														</div>
+													</div>
+													<div class="p width80 pull-left">
+																													<a href="uploads/1629280635_780052_EDC Shamim Ansari Report.pdf" target="_blank" class="post-title">Hearty Congratulations!!! Mr. Shamim Ansari of  TYBCOM 2020-21 participated & won the Best Innovative Idea Prize in the Business ideation Fest titled Powerpuff Entrepreneurs.</a>
+																													
+													<!--	<div class="post-content">
+															 Published: . 
+														</div> -->
+													</div>
+													<div class="clearfix"></div>
+												</div>
+											</li>
+											<div class="clearfix"></div>
+																				</ul>
+								</div></div>
+                                <div class="clearfix"></div>
+								<a class="read-more pull-right btn-sm" href="awards-news.php">More Awards and Achievements &nbsp;</a>
+							</div>
+						</div>
+					</div>
+					<!-- Start Latest Posts -->
+				</div>
+				
+                <div class="col-md-4 col-sm-6 animated" data-animation="fadeInLeft" style="border-left:1px solid black;">
+					<!-- Classic Heading -->
+					<h1 class="classic-title"><span>NOTICE BOARD</span> <img src="https://mitacsc.ac.in/cambridge/img/new.gif.png"></h1>
+					<div class="row">
+						<div class="col-xs-12">
+                        
+							<div class="latest-posts-classic">
+									<div class="marquee"><div style="height:500px!important;">
+									<ul>
+																					<li class="news-item">
+												<div class="post-row">
+													<div class="left-meta-post">
+														<div class="post-date">
+															<span class="day">30</span>
+															<span class="month">Jan</span>
+														</div>
+													</div>
+													<div class="p width80 pull-left">
+																													<a href="uploads/1675056619_265679_Corrogendum_of_04_02_2023.pdf" target="_blank" class="post-title">Corrogendum  of 04-02-2023</a>
+																													
+													<!--	<div class="post-content">
+															 Published: . 
+														</div> -->
+													</div>
+													<div class="clearfix"></div>
+												</div>
+											</li>
+											<div class="clearfix"></div>
+																						<li class="news-item">
+												<div class="post-row">
+													<div class="left-meta-post">
+														<div class="post-date">
+															<span class="day">21</span>
+															<span class="month">Jan</span>
+														</div>
+													</div>
+													<div class="p width80 pull-left">
+																													<a href="uploads/1674280958_369827_Corrigendum Science Faculty.pdf" target="_blank" class="post-title">Corrigendum Science Faculty</a>
+																													
+													<!--	<div class="post-content">
+															 Published: . 
+														</div> -->
+													</div>
+													<div class="clearfix"></div>
+												</div>
+											</li>
+											<div class="clearfix"></div>
+																						<li class="news-item">
+												<div class="post-row">
+													<div class="left-meta-post">
+														<div class="post-date">
+															<span class="day">20</span>
+															<span class="month">Jan</span>
+														</div>
+													</div>
+													<div class="p width80 pull-left">
+																													<a href="uploads/1674194941_124469_FIRST YEAR BACHELOR-OF-BUSINESS-ADMINISTRATION (INTERNATIONAL-BUSINESS)(2019).PDF" target="_blank" class="post-title">FIRST YEAR BACHELOR-OF-BUSINESS-ADMINISTRATION (INTERNATIONAL-BUSINESS)(2019)</a>
+																													
+													<!--	<div class="post-content">
+															 Published: . 
+														</div> -->
+													</div>
+													<div class="clearfix"></div>
+												</div>
+											</li>
+											<div class="clearfix"></div>
+																						<li class="news-item">
+												<div class="post-row">
+													<div class="left-meta-post">
+														<div class="post-date">
+															<span class="day">20</span>
+															<span class="month">Jan</span>
+														</div>
+													</div>
+													<div class="p width80 pull-left">
+																													<a href="uploads/1674194180_188891_Corrigendum (Commerce and Science Faculty)_12012023.pdf" target="_blank" class="post-title">Corrigendum (Commerce and Science Faculty)_12012023</a>
+																													
+													<!--	<div class="post-content">
+															 Published: . 
+														</div> -->
+													</div>
+													<div class="clearfix"></div>
+												</div>
+											</li>
+											<div class="clearfix"></div>
+																						<li class="news-item">
+												<div class="post-row">
+													<div class="left-meta-post">
+														<div class="post-date">
+															<span class="day">20</span>
+															<span class="month">Jan</span>
+														</div>
+													</div>
+													<div class="p width80 pull-left">
+																													<a href="uploads/1674193919_318118_Notification.pdf" target="_blank" class="post-title">Notification</a>
+																													
+													<!--	<div class="post-content">
+															 Published: . 
+														</div> -->
+													</div>
+													<div class="clearfix"></div>
+												</div>
+											</li>
+											<div class="clearfix"></div>
+																						<li class="news-item">
+												<div class="post-row">
+													<div class="left-meta-post">
+														<div class="post-date">
+															<span class="day">20</span>
+															<span class="month">Jan</span>
+														</div>
+													</div>
+													<div class="p width80 pull-left">
+																													<a href="uploads/1674193899_702643_M.Sc.-Computer-Application(2019-Patt.)-(26419).PDF" target="_blank" class="post-title">M.Sc.-Computer-Application(2019-Patt.)-(26419)</a>
+																													
+													<!--	<div class="post-content">
+															 Published: . 
+														</div> -->
+													</div>
+													<div class="clearfix"></div>
+												</div>
+											</li>
+											<div class="clearfix"></div>
+																						<li class="news-item">
+												<div class="post-row">
+													<div class="left-meta-post">
+														<div class="post-date">
+															<span class="day">20</span>
+															<span class="month">Jan</span>
+														</div>
+													</div>
+													<div class="p width80 pull-left">
+																													<a href="uploads/1674193880_979025_M.Sc.[Computer-Science](Rev.2019)-(21619).PDF" target="_blank" class="post-title">M.Sc.[Computer-Science](Rev.2019)-(21619)</a>
+																													
+													<!--	<div class="post-content">
+															 Published: . 
+														</div> -->
+													</div>
+													<div class="clearfix"></div>
+												</div>
+											</li>
+											<div class="clearfix"></div>
+																				</ul>
+								</div></div>
+                                <div class="clearfix"></div>
+								<a class="read-more pull-right btn-sm" href="student-corner-notice-circulars.php">View All Notices &nbsp;</a>
+							</div>
+						</div>
+					</div>
+					<!-- Start Latest Posts -->
+				</div>
+				<div class="col-md-4 col-sm-6 animated" data-animation="fadeInLeft" style="border-left:1px solid black;">
+					<!-- Classic Heading -->
+					<h1 class="classic-title"><span>NEWS & EVENTS</span> <img src="https://mitacsc.ac.in/cambridge/img/new.gif.png"></h1>
+					<div class="row">
+						<div class="col-xs-12">
+                        
+							<div class="latest-posts-classic">
+									<div class="marquee"><div  style="height:500px!important;">
+									<ul>
+																					<li class="news-item">
+												<div class="post-row">
+													<div class="left-meta-post">
+														<div class="post-date">
+															<span class="day">18</span>
+															<span class="month">Aug</span>
+														</div>
+													</div>
+													<div class="p width80 pull-left">
+																													<a href="uploads/1692350536_748290_Artboard 1-min (1).jpg" target="_blank" class="post-title">On 26th Aug 2023 Department of Arts and Commerce organizing State Level Symposium on Application of Indian Knowledge System (IKS) in the field of Social Sciences and Humanities.</a>
+																													
+													<!--	<div class="post-content">
+															 Published: . 
+														</div> -->
+													</div>
+													<div class="clearfix"></div>
+												</div>
+											</li>
+											<div class="clearfix"></div>
+																						<li class="news-item">
+												<div class="post-row">
+													<div class="left-meta-post">
+														<div class="post-date">
+															<span class="day">16</span>
+															<span class="month">Aug</span>
+														</div>
+													</div>
+													<div class="p width80 pull-left">
+																													<a href="uploads/1692178780_355550_Vrukshvalli_Guest_Lecture.pdf" target="_blank" class="post-title">On 09 August 2023 &#34;Kranti Din&#34; was celebrated as a part of “Meri Mati Mera Desh” campaign by MIT ACSC, NSS Cell in association with Alandi Nagar Parishad and Indrayani Seva Foundation. </a>
+																													
+													<!--	<div class="post-content">
+															 Published: . 
+														</div> -->
+													</div>
+													<div class="clearfix"></div>
+												</div>
+											</li>
+											<div class="clearfix"></div>
+																						<li class="news-item">
+												<div class="post-row">
+													<div class="left-meta-post">
+														<div class="post-date">
+															<span class="day">16</span>
+															<span class="month">Aug</span>
+														</div>
+													</div>
+													<div class="p width80 pull-left">
+																													<a href="uploads/1692177973_594560_IMG_4641 (1).jpg" target="_blank" class="post-title">“Department of Mathematics organizing intercollegiate event’Mathlatics :Power your Brain’on 1st and 2nd September 2023”</a>
+																													
+													<!--	<div class="post-content">
+															 Published: . 
+														</div> -->
+													</div>
+													<div class="clearfix"></div>
+												</div>
+											</li>
+											<div class="clearfix"></div>
+																						<li class="news-item">
+												<div class="post-row">
+													<div class="left-meta-post">
+														<div class="post-date">
+															<span class="day">10</span>
+															<span class="month">Aug</span>
+														</div>
+													</div>
+													<div class="p width80 pull-left">
+																													<a href="uploads/1691664901_857806_Anubhuti Workshop.pdf" target="_blank" class="post-title">Department of Arts and Commerce organised &#39;Three Days Workshop Start ‘U’p Foundational Leadership Training&#39; from 20 to 22 July, 2023.</a>
+																													
+													<!--	<div class="post-content">
+															 Published: . 
+														</div> -->
+													</div>
+													<div class="clearfix"></div>
+												</div>
+											</li>
+											<div class="clearfix"></div>
+																						<li class="news-item">
+												<div class="post-row">
+													<div class="left-meta-post">
+														<div class="post-date">
+															<span class="day">07</span>
+															<span class="month">Aug</span>
+														</div>
+													</div>
+													<div class="p width80 pull-left">
+																													<a href="uploads/1691399725_527528_webinar FTP Global fortune.pdf" target="_blank" class="post-title">Webinar on the Topic “Forigen Trade Policy-2023”.Date of Event 4 th April and 5 th April, 2023</a>
+																													
+													<!--	<div class="post-content">
+															 Published: . 
+														</div> -->
+													</div>
+													<div class="clearfix"></div>
+												</div>
+											</li>
+											<div class="clearfix"></div>
+																						<li class="news-item">
+												<div class="post-row">
+													<div class="left-meta-post">
+														<div class="post-date">
+															<span class="day">07</span>
+															<span class="month">Aug</span>
+														</div>
+													</div>
+													<div class="p width80 pull-left">
+																													<a href="uploads/1691399502_401662_Vishakha Gupta guest lecture docs.pdf" target="_blank" class="post-title">Guest lectures on the topic “How to pursue BBA and MBA and Career Opportunities in Management field”. Date of Event 15 th April, 2023</a>
+																													
+													<!--	<div class="post-content">
+															 Published: . 
+														</div> -->
+													</div>
+													<div class="clearfix"></div>
+												</div>
+											</li>
+											<div class="clearfix"></div>
+																						<li class="news-item">
+												<div class="post-row">
+													<div class="left-meta-post">
+														<div class="post-date">
+															<span class="day">07</span>
+															<span class="month">Aug</span>
+														</div>
+													</div>
+													<div class="p width80 pull-left">
+																													<a href="uploads/1691399239_624155_TPO Guest Lecture.pdf" target="_blank" class="post-title">Expert Talk on topic “How to Give an Effective Presentation”.Date of Event 12 th October, 2022</a>
+																													
+													<!--	<div class="post-content">
+															 Published: . 
+														</div> -->
+													</div>
+													<div class="clearfix"></div>
+												</div>
+											</li>
+											<div class="clearfix"></div>
+																				</ul>
+								</div></div>
+                                <div class="clearfix"></div>
+								<a class="read-more pull-right btn-sm" href="awards-and-events.php">More News & Events &nbsp;</a>
+							</div>
+						</div>
+					</div>
+					<!-- Start Latest Posts -->
+				</div>
+				
+				 
+				<!-- End Service Icon 1 -->
+			</div>
+			<!-- End Services Icons -->
+		</div>
+		<div id="gray-section">
+			<div class="container">
+			
+			</div>
+		</div>
+		<!-- Start tagLine Section -->
+		<div class="section purchase animated" data-animation="fadeInDown">
+			<div class="container">
+				<!-- Start Video Section Content -->
+								<!--<div class="row">
+					<div class="col-md-9 col-sm-9">
+						<div class="section-video-content text-center">
+							<!-- Start Animations Text - ->
+							<div style="color:#FFFFFF; text-align:justify;">
+								< ?php echo $banner_text; ?>
+							</div>
+							<!-- End Animations Text -->
+							<!-- Start Buttons - ->
+							< ?php if(!empty($url_link)): ?>
+							<a href="< ?php echo $url_link; ?>" class="btn-system btn-medium"><i class="fa fa-tasks"></i> Read More</a>
+							< ?php endif; ?>
+						</div>
+					</div>
+					< ?php if(!empty($file)): ?>
+					<div class="col-md-3 col-sm-3"><img src="< ?php echo $image; ?>" /></div>
+					< ?php endif; ?>
+                </div>-->
+				<!-- End Section Content -->
+                
+                
+                
+                <div class="row">
+<div class="col-lg-4 col-md-4 col-sm-4 awardbox text-center"style="margin-top:-25px"><img src="popup-images/awrd.png"width="195"><span style="display:none;"><img src="images/awrd.png" alt="awards" class="img-responsive"></span></div>
+
+
+<div class="col-lg-8 col-md-8 col-sm-8 awardbox">
+<ul style="list-style:outside !important;">
+<li>Best Placement among Educational Institutions in Pune, Maharashtra- By Brands Academy.</li>
+<li>Outstanding Contribution to Industry-Academia Partnership – By Wipro.</li>
+<li>Best Educationist Award- By International Institute of Education & Management, New Delhi.</li>
+<li>University Level Best College Award by Savitribai Phule Pune University for conducting Student Development Activities.</li>
+</ul>
+</div>
+</div>
+			</div>
+			<!-- .container -->
+		</div>
+		<!-- End tagLine Section -->
+		<!-- Our Recent Placement -->
+		<div class="partner" style="background:#f8f5ee;">
+			<div class="container">
+				<div class="row">
+					<!-- Start Big Heading -->
+					<div class="big-title text-center animated" data-animation="fadeInDown">
+						<div class="clearfix"></div>
+						<h4><span class="recent_palcement"> <strong>Our Recent Placements</strong></span></h4>
+					</div>
+					<!-- End Big Heading -->
+					<!--Start Clients Carousel-->
+					<div class="nbs-flexisel-container">
+							<div class="nbs-flexisel-inner">
+							<ul class="flexiselDemo3 nbs-flexisel-ul" style="left:-142.6px; display:block;">
+							<li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1650359116_850601_1629526129_451775_ECLERX.png' /style='height:70px'></li><li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1650359135_641055_1629526070_221987_ICICI Prudential Life Insurance Co.Ltd.png' /style='height:70px'></li><li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1650359151_347290_1629525945_201605_Whitehat Education Technology Pvt. Ltd.png' /style='height:70px'></li><li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1650359163_798793_1629525856_257233_Marquardt India Pvt. Ltd.jpg' /style='height:70px'></li><li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1650359176_247660_1629525713_952650_Atos Syntel.jpg' /style='height:70px'></li><li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1650359190_827625_1629525593_294140_Sell.Do.jpg' /style='height:70px'></li><li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1650359204_843604_1629525580_825543_Sys Tools Software Pvt.Ltd.jpg' /style='height:70px'></li><li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1650359218_512160_1629525565_439511_Tata Consultancy Services Limited.png' /style='height:70px'></li><li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1650359255_101127_1629525533_615117_Wipro Limited.png' /style='height:70px'></li><li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1650359273_234781_1629525519_545242_ZS Associate.jpg' /style='height:70px'></li><li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1650359289_533284_1629276177_704474_NeoSOFT Technologies.jpg' /style='height:70px'></li><li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1629276160_874890_Neeyamo.jpg' /style='height:70px'></li><li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1629276088_417380_Mphasis Limited.jpg' /style='height:70px'></li><li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1629275948_957628_Infosys Limited.png' /style='height:70px'></li><li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1629275840_708775_IBN Technologies Ltd.png' /style='height:70px'></li><li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1629275584_500797_Concentrix.png' /style='height:70px'></li><li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1629275147_362061_Accenture, India.jpg' /style='height:70px'></li><li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1629275270_657441_Amdocs, Pune.jpg' /style='height:70px'></li><li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1629275400_294669_BYJUs.jpg' /style='height:70px'></li><li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1629275418_349471_Calvin Klein & Tommy Hilfiger, India.jpg' /style='height:70px'></li><li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1629275436_771234_Capgemini.png' /style='height:70px'></li><li class='nbs-flexisel-item' style='margin-right:18px;height:62px;border:1px solid gray;box-shadow:0 0 3px gray;'><img src='uploads/1629275491_983366_Cognizant.png' /style='height:70px'></li>							</ul>
+							<div class="nbs-flexisel-nav-left" style="top:21.5px;"></div>
+							<div class="nbs-flexisel-nav-right" style="top:21.5px;"></div>
+						</div>
+					</div>
+					<!-- End Clients Carousel -->
+				</div>
+				<!-- .row -->
+			</div>
+			<!-- .container -->
+		</div>
+		
+		<!-- Our Recent Placement-->
+		<!-- Start Footer Section -->
+		<footer>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-2">
+                
+        <!--<iframe width="230" height="157" style="border:0 solid black" src="https://www.youtube.com/embed/HF8Rfu8JXcI"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+            
+            <a href="https://www.youtube.com/embed/HF8Rfu8JXcI"><img src="include/img/ytube.jpg" width="230" height="157"></a>
+            <br>
+            <a href="https://fb.watch/v/UoQAaW6U/">MIT ACSC AT A GLANCE</a>
+            </div>
+			
+
+            <div class="col-sm-2">
+                 <h3 class="widget-title"style="color:white">Explore<span></span></h3>
+                <p><a  href="https://www.flipbookpdf.net/web/site/01bc829733dcc9ce742ea7114e52d1b99ca6c01b202303.pdf.html"style="color:white;">NEWS LETTER-<i style="font-family: cursive;">VERVE</i></a></p>
+                <p><a  href="https://mitacsc.ac.in/manual/Kalpavriksha.pdf"style="color:white;">MAGAZINE</a></p>
+                 <p><a  href="https://www.almashines.com/mitacs"style="color:white;">ALUMNI</a></p>
+                 <p><a  href="https://mitacsc.ac.in/brochure.pdf"style="color:white">BROCHURE</a></p>
+                 <p><a  href='linkpage.php?flid=24' target='_blank'style="color:white;">CASTE BASED DISCRIMINATION FORM</a></p>
+                 <p><a href="#" data-toggle="modal" data-target=".bd-example-modal-lg">READ MORE</a></p>
+                  <p><a href="https://mitacsc.ac.in/blog/" target="_blank">BLOG</a></p>
+                  
+            </div>
+             <div class="col-sm-2">
+                 <h3 class="widget-title"style="color:white">Quick Links<span></span></h3>
+                  <!--<p><a  href="https://mitacsc.ac.in/linkpage.php?flid=19"style="color:white">RTI</a></p>-->
+                   <!--<p><a  href="https://mitacsc.ac.in/linkpage.php?flid=25"style="color:white;">CAREERS</a></p>-->
+                 <!--<p><a  href="https://mitacsc.ac.in/linkpage.php?flid=15"style="color:white;">NIRF</a></p>-->
+                 <p><a  href="https://mitacsc.ac.in/linkpage.php?flid=4"style="color:white;">N.S.S.</a></p>
+                  <p><a  href='https://mitacsc.ac.in/pageinfo.php?cid=11&scid=415' target='_blank'style="color:white;">STAKEHOLDER'S FEEDBACK</a></p>
+                 <p><a  href='https://cimsstudent.mastersofterp.in/' target='_blank'style="color:white;">ERP STUDENT LOGIN</a></p>
+                  <p><a  href='https://cims.mastersofterp.in/' target='_blank'style="color:white;">ERP STAFF LOGIN</a></p>
+                <p><a  href='orientation-programs-timetable.php' target='_blank' target='_blank'style="color:white;">TIME TABLE OF ORIENTATION OF ALL PROGRAMS</a></p>
+
+                 <!--<p><a  href="https://mitacsc.ac.in/IQAC-Notice-MoM/Annual_gender_sensitisation_action_plan.pdf"style="color:white;">ANNUAL GENDER SENSITIZATION PLAN</a></p>-->
+                 <!--<p><a  href="https://mitacsc.ac.in/IQAC-Notice-MoM/Policy/Persons%20with%20Disabilities.pdf"style="color:white;">PERSON WITH DISABILITIES</a></p>-->
+                
+
+                
+
+            </div>
+             <div class="col-sm-2">
+                 <h3 class="widget-title"style="color:white">Quick Links<span></span></h3>
+                <p><a  href="https://mitacsc.ac.in/naac/programoutcomes.php"style="color:white;">PROGRAM OUTCOMES</a></p>
+                <p><a  href="https://mitacsc.ac.in/linkpage.php?flid=12"style="color:white;">CODE OF CONDUCT</a></p>
+               <p><a  href="https://mitacsc.ac.in/linkpage.php?flid=22"style="color:white;">LIST OF COMMITTEES</a></p>
+               <p><a  href="https://mitacsc.ac.in/linkpage.php?flid=5"style="color:white">STUDENT DEVELOPMENT CELL</a></p>
+               <p><a  href="http://ugcresources.in/"style="color:white">UGC E-RESOURCES</a></p>
+                
+
+            </div>
+             <div class="col-sm-3">
+            <h3 class="widget-title"style="color:white">Address<span></span></h3>
+        
+                <p><a href=''style='color:#fff;text-decoration:none'><p>MAEER&#39;S<br />
+MIT Arts,Commerce &amp; Science College<br />
+Alandi Road, Pune - 412105 Maharashtra, India<br />
+Email:&nbsp;admission@mitacsc.ac.in, principal@mitacsc.ac.in</p>
+</a></p>					<br>
+            </div>
+        </div>
+  <!--      <div class="row">-->
+  <!--      <div class="col-sm-6"></div>-->
+  <!--      <div class="col-sm-6">-->
+
+  <!--              <p>-->
+  <!--                  <a aria-label="Chat on WhatsApp" href="https://wa.me/9272225946?text=Hi"> <img alt="Chat on WhatsApp" src="https://extraaedgeresources.blob.core.windows.net/documents/whatsapp/WhatsAppButtonGreenSmall.png" width="180" /></a>&nbsp;-->
+		<!--			<a href="https://www.youtube.com/channel/UCqfq1nwcv_sMT36xCbke2XQ"><img src="social-icons/1.png"width="40"></a>&nbsp;-->
+		<!--			<a href="https://www.facebook.com/MITACSCALANDI/"><img src="social-icons/2.png"width="40"></a>&nbsp;-->
+		<!--			<a href="https://www.instagram.com/mitacsc_official/"><img src="social-icons/3.png"width="40"></a>&nbsp;-->
+		<!--			<a href="https://g.page/MITACSC?share"><img src="social-icons/5.png"width="42"></a>&nbsp;-->
+					
+		<!--		</p>-->
+		<!--</div>-->
+		<br><br>
+		<div class="row">
+		    <div class="col-sm-4 text-center">
+		      <p>
+                    
+					<a href="https://www.youtube.com/channel/UCqfq1nwcv_sMT36xCbke2XQ"><img src="social-icons/1.png"width="40"></a>&nbsp;
+					<a href="https://www.facebook.com/MITACSCALANDI/"><img src="social-icons/2.png"width="40"></a>&nbsp;
+					<a href="https://www.instagram.com/mitacsc_official/"><img src="social-icons/3.png"width="40"></a>&nbsp;
+					<a href="https://g.page/MITACSC?share"><img src="social-icons/5.png"width="42"></a>&nbsp;
+					<!--<a aria-label="Chat on WhatsApp" href="https://wa.me/9272225946?text=Hi"> <img alt="Chat on WhatsApp" src="https://extraaedgeresources.blob.core.windows.net/documents/whatsapp/WhatsAppButtonGreenSmall.png" width="180" /></a>&nbsp;-->
+					
+				</p>   
+		    </div>
+		    <div class="col-sm-4 text-center"><br>
+		         <p>© 2023 WWW.MITACSC.AC.IN - ALL RIGHTS RESERVED</p>
+		    </div>
+		    <div class="col-sm-4 text-center"><br>
+                <a href="https://mitacsc.ac.in/linkpage.php?flid=17">PRIVACY POLICY</a>&nbsp;&nbsp;
+                <a href="https://mitacsc.ac.in/sitemap.php">SITEMAP</a>
+		    </div>
+		</div>
+    </div>
+</footer>
+<div id="popup-footer" class="popup-hidden">
+  <div class="popup-content">
+    <div class="popup-header">
+    <img src="https://mitacsc.ac.in/include/img/mitacsc-conatct-removebg-preview.png" style="width:130px;margin-bottom:-15px;margin-top:-2px">
+      <h5 is="learn" style="font-weight:bold;color:#78282b;font-family: inherit;font-size:15px;margin-bottom:-15px;">Learn More About MITACSC Admission Process</h5>
+       <button class="btn" id="close-button"style="background-color:#78282b;margin-left:25px;font-weight:bold;margin-bottom:-15px;"><a href="https://mitacsc.ac.in/apply/?utm_source=695"style="color:white">LEARN MORE</a></button>
+      <button id="close-buttons"style="margin-bottom:-15px;margin-left:30px">&times;</button>
+    </div>
+  </div>
+</div>
+
+<style type="text/css">
+@media screen and (max-width: 600px) {
+  #close-button{
+    margin-top:-85px;
+    margin-right:-200px;
+  }
+}
+@media screen and (max-width: 600px) {
+  #close-buttons{
+     margin-right:220px;
+     margin-top:-90px;
+  }
+}
+@media screen and (max-width: 600px) {
+  #learn{
+     margin-right:200px;
+  }
+}
+button#close-buttons {
+    background: #ffeeef;
+    border: 1px solid gray;
+}
+	#popup-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color:#ffeeef;
+  padding: 2px;
+  transition: transform 0.3s ease;
+  z-index: 9999;
+}
+
+.popup-hidden {
+  transform: translateY(100%);
+}
+
+.popup-visible {
+  transform: translateY(0);
+}
+
+.popup-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.popup-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.popup-header h2 {
+  margin: 0;
+}
+
+.popup-body {
+  display: flex;
+  align-items: center;
+}
+
+.popup-body img {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+#close-button {
+  padding: 8px 16px;
+  border-radius: 4px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+</style>
+<script type="text/javascript">
+// Get references to HTML elements
+const popupFooter = document.getElementById('popup-footer');
+const closeButton = document.getElementById('close-button');
+const closeButtons = document.getElementById('close-buttons');
+
+// Function to show the popup
+function showPopup() {
+  popupFooter.classList.remove('popup-hidden');
+  popupFooter.classList.add('popup-visible');
+}
+
+// Function to hide the popup
+function hidePopup() {
+  popupFooter.classList.remove('popup-visible');
+  popupFooter.classList.add('popup-hidden');
+}
+
+// Event listener for the close button
+closeButton.addEventListener('click', hidePopup);
+closeButtons.addEventListener('click', hidePopup);
+
+// Example usage: show the popup after 3 seconds
+setTimeout(showPopup, 2000);
+
+
+
+</script>
+		<!-- End Footer Section -->
+		<!-- End Content -->
+		<!-- Start Footer -->
+		<!-- End Footer -->
+	</div>
+	<!--enquiry-->
+	<style>
+    .floating_form_btn {
+    color: #fff;
+    font-weight: 600;
+    font-size: 15px;
+    position: fixed;
+    top: 51%;
+    right: -57px;
+    transform: translateY(-50%) rotate(90deg);
+    border-radius: 5px;
+    border: none;
+    background-color: #762828;
+    padding: 10px 25px;
+    text-transform: uppercase;
+    cursor: pointer; 
+}
+
+</style>
+	<!--enquiry-->
+        <a href="https://mitacsc.ac.in/contact.php?cid=5">
+            <button class="floating_form_btn popupclick">Enquire Now</button>
+        </a>
+	<!--enquiry-->    
+	<!--enquiry-->
+</div>
+
+<!-- End Container -->
+<!-- Go To Top Link -->
+<a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
+
+<script src="js/jquery.flexisel.js"></script>
+<script type="text/javascript">
+//logo scroll
+$(window).load(function()
+{
+	$(".flexiselDemo3").flexisel(
+	{
+		visibleItems: 6,
+		animationSpeed: 1,
+		autoPlay: true,
+		autoPlaySpeed: 3000,            
+		pauseOnHover: true,
+		enableResponsiveBreakpoints: true,
+		responsiveBreakpoints:
+		{
+			portrait:
+			{
+				changePoint:480,
+				visibleItems: 1
+			}, 
+			landscape:
+			{
+				changePoint:640,
+				visibleItems: 2
+			},
+			tablet:
+			{
+				changePoint:768,
+				visibleItems: 3
+			}
+		}
+	});
+});
+</script>
+<script type="text/javascript" src="js/script.js"></script>
+
+<script type="text/javascript" charset="utf-8">
+$(document).ready(function()
+{
+	$("area[rel^='prettyPhoto']").prettyPhoto();
+	$(".gallery:first a[rel^='prettyPhoto']").prettyPhoto({animation_speed:'normal',theme:'light_square',slideshow:3000, autoplay_slideshow: true});
+	$(".gallery:gt(0) a[rel^='prettyPhoto']").prettyPhoto({animation_speed:'fast',slideshow:10000, hideflash: true});
+	
+	$("#custom_content a[rel^='prettyPhoto']:first").prettyPhoto(
+	{
+		custom_markup: '<div id="map_canvas" style="width:260px; height:265px"></div>',
+		changepicturecallback: function(){ initialize(); }
+	});
+	
+	$("#custom_content a[rel^='prettyPhoto']:last").prettyPhoto(
+	{
+		custom_markup: '<div id="bsap_1259344" class="bsarocks bsap_d49a0984d0f377271ccbf01a33f2b6d6"></div><div id="bsap_1237859" class="bsarocks bsap_d49a0984d0f377271ccbf01a33f2b6d6" style="height:260px"></div><div id="bsap_1251710" class="bsarocks bsap_d49a0984d0f377271ccbf01a33f2b6d6"></div>',
+		changepicturecallback: function(){ _bsap.exec();}
+	});
+});
+</script>
+<script type="text/javascript" src="js/jquery.easing.min.js"></script>
+<script type="text/javascript" src="js/jquery.easy-ticker.js"></script>
+ <script src="https://extraaedgeresources.blob.core.windows.net/demo/mitacsc/Chatbot/js/chat.js" ></script>   
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var dd = $('.vticker').easyTicker(
+	{
+		direction: 'up',
+		easing: 'easeInOutBack',
+		speed: 'fast',
+		interval: 1000,
+		height: 'auto',
+		visible: 4,
+		mousePause: 0,
+		controls: {
+			up: '.up',
+			down: '.down',
+			toggle: '.toggle',
+			stopText: 'Stop !!!'
+		}
+	}).data('easyTicker');
+	
+	$('.vis').click(function()
+	{
+		dd.options['visible'] = 1;
+		
+	});
+	
+	/* $('.visall').click(function()
+	{
+		dd.stop();
+		dd.options['visible'] = 4;
+		dd.start();
+	}); */
+});
+</script>
+<!--
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-58142586-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+-->
+<script type="text/javascript">
+// 	$('#content .marquee-new').marquee({
+//     //speed in milliseconds of the marquee
+//     duration: 500,
+//     //gap in pixels between the tickers
+//     gap: 50,
+//     //time in milliseconds before the marquee will start animating
+//     delayBefo	reStart: 0,
+//     //'left' or 'right'
+//     direction: 'up',
+//     //true or false - should the marquee be duplicated to show an effect of continues flow
+//     duplicated: true
+// });
+// 	(function(){
+
+// function scroller() {
+
+//   var scroll = $('.marquee-new');// Sets the div with a class of scroll as a variable
+  
+//   var height = scroll.height(); // Gets the height of the scroll div
+  
+//   var topAdj = -height-300;  '-height' turns the height                   of the UL into a negative #, 
+//                * '- 50' subtracts an extra 50 pixels from the height of 
+//         			 * the div so that it moves the trail of the UL higher to 
+// 							 * the top of the div before the animation                ends
+							 
+	
+// 	scroll.animate({
+// 		'top' : [topAdj, 'linear'] 
+// 	}, 8000, function(){
+// 		scroll.css('top', 80); //resets the top position of the Ul for the next cycle
+// 		scroller(); // Recalls the animation cycle to begin.
+// 	});}
+	
+// scroller();
+
+// })();
+</script>
+</html>
